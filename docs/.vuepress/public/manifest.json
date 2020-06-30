@@ -1,0 +1,25 @@
+{
+    "name": "守心自暖",
+    "short_name": "守心自暖",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "description": "守心自暖的个人主页",
+    "theme_color": "blue",
+    "icons": [
+        {
+        "src": "./avatar.png",
+        "sizes": "144x144",
+        "type": "image/png"
+        }
+    ],
+    "related_applications": [
+        {
+        "platform": "web"
+        },
+        {
+        "platform": "play",
+        "url": "https://www.baidu.com/"
+        }
+    ]
+}
