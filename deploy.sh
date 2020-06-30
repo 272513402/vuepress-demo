@@ -20,6 +20,6 @@ git commit -m 'deploy'
 git push -f git@github.com:272513402/272513402.github.io.git master
 
 # 如果发布到 https://USERNAME.github.io/<REPO>  REPO=github上的项目
-git push -f git@github.com:272513402/272513402.github.io.git/vuepress-demo master:gh-pages
+# git push -f git@github.com:272513402/272513402.github.io.git/<REPO> master:gh-pages
 
 cd -
